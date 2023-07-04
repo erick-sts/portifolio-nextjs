@@ -1,4 +1,4 @@
-.boxCurriculo {
+.boxProjetos {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,7 +7,7 @@
     
 }
 
-.boxCurriculo .curriculo {
+.boxProjetos .projetos {
     background-color: darkgray;
     border: solid 1px;
     border-radius: 15px;
@@ -21,15 +21,14 @@
     overflow-y: scroll;
 }
 
-@media (max-width: 700px) {
-    .curriculo {
-        overflow-y: scroll;
-    }
+.boxProjetos .projetos p a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bolder;
 }
 
-@media (max-width: 630px) {
-    
-    .boxCurriculo .curriculo{
-        width: 350px;
+@media (max-width: 700px) {
+    .projetos {
+        overflow-y: scroll;
     }
 }
