@@ -20,7 +20,7 @@ export default function Home() {
             Este é meu portifólio digital, nele você vai encontrar meu currículo na opção sobre, e em projetos, será redirecionado para o meu diretorio do GitHub.
           </p>
           <p>
-            Sou Erick Oliveira Nascimento, tenho 25 anos, estudante de Desenvolvimento de Software Multiplataforma pela Fatec. Inicie os estudos na Fatec de Cotia, no entanto estou em processo de transferência para a Fatec recem inaugurada de Votorantim.
+            Sou Erick Oliveira Nascimento, tenho 25 anos, estudante de Desenvolvimento de Software Multiplataforma pela Fatec. Iniciei os estudos na Fatec de Cotia, no entanto estou em processo de transferência para a Fatec recem inaugurada de Votorantim.
           </p>
           <p>
             Estou em busca de um estágio em desenvolvimento, possuo conhecimentos, básicos nas tecnologias, HTML, CSS, JavaScript, React, NextJs, Jquery e JSX, todas essas utilizadas na criação deste site. Além destas já estudei rasamente Python, Java, C# e MySQL.

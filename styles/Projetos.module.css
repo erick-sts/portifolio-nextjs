@@ -27,8 +27,8 @@
     font-weight: bolder;
 }
 
-@media (max-width: 700px) {
-    .projetos {
-        overflow-y: scroll;
+@media (max-width: 600px) {
+    .boxProjetos .projetos {
+        width: 250px;
     }
 }

@@ -11,11 +11,11 @@ export default function Curriculo() {
                     </p>
                     <h3>Formação</h3>
                     <p>
-                        Técnico em Informática <br></br> Etec Fernando Prestes – Sorocaba - SP --
+                        Técnico em Informática <br></br> Etec Fernando Prestes - Sorocaba - SP --
                         06/2014 - 12/2015 <br></br>
-                        <br></br> Técnico em Contabilidade <br></br> Etec de Cotia – Cotia - SP --
+                        <br></br> Técnico em Contabilidade <br></br> Etec de Cotia - Cotia - SP --
                         02/2017 - 06/2018 <br></br>
-                        <br></br> Desenvolvimento de Software <br></br> 07/2022 - (Cursando)
+                        <br></br> Desenvolvimento de Software <br></br>Fatec Cotia - Cotia - SP --<br></br> 07/2022 - (Cursando)
                     </p>
                     <h3>Idiomas</h3>
                     <p>Inglês - Básico <br></br> Francês - Básico</p>
